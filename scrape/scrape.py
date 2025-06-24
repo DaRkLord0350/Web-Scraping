@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """ scrape - a command-line web scraping tool
 
-    written by Hunter Hammond (huntrar@gmail.com)
+    written by Anshuman Jha (anshuman.jha2025@gmail.com)
 """
 
 from __future__ import absolute_import, print_function

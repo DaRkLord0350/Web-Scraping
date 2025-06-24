@@ -2,11 +2,11 @@ Metadata-Version: 2.4
 Name: scrape
 Version: 0.11.3
 Summary: a command-line web scraping tool
-Home-page: https://github.com/huntrar/scrape
-Author: Hunter H
-Author-email: huntrar@gmail.com
-Maintainer: Hunter H
-Maintainer-email: huntrar@gmail.com
+Home-page: https://github.com/DaRkLord0350/Web-Scraping/scrape
+Author: Anshuman Jha
+Author-email: anshuman.jha2025@gmail.com
+Maintainer: Anshuman Jha
+Maintainer-email: anshuman.jha2025@gmail.com
 License: MIT
 Keywords: web crawler scraper scrape crawl download filter save webpages websites images docs document documentation pdf csv html lxml
 Classifier: Development Status :: 4 - Beta
@@ -68,13 +68,14 @@ or
 
 ::
 
-    pip install git+https://github.com/huntrar/scrape.git#egg=scrape
+    pip install git+https://github.com/DaRkLord0350/Web-Scraping.git#egg=web-scraping
+
 
 or
 
 ::
 
-    git clone https://github.com/huntrar/scrape
+    git clone https://github.com/DaRkLord0350/Web-Scraping.git
     cd scrape
     python setup.py install
 
@@ -135,7 +136,7 @@ Usage
 Author
 ------
 
--  Hunter Hammond (huntrar@gmail.com)
+-  Anshuman Jhaammond (anshuman.jha2025@gmail.com)
 
 Notes
 -----
