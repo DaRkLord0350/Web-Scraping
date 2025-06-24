@@ -1,0 +1,7 @@
+argparse
+lxml
+pdfkit
+requests
+requests-cache
+six
+tldextract
